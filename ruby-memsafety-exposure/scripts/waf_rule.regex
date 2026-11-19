@@ -1,0 +1,1 @@
+content-type:[^a-z]*text/plain(?:[^\r\n]|\r\n[ \t])*;[^=;a-z0-9]*charset[^=;a-z0-9]*=[^a-z0-9";]*"?(?:[a-tv-z0-9]|u[^ts]|us[^-]|ut[^f]|utf[^-]|utf-[^8]|utf-8[a-z0-9_-])
